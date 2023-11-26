@@ -1,1 +1,1 @@
-# k8s-training
+# k8s-practice
